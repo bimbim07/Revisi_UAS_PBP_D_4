@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/activity_hotel.xml" value="0.17708333333333334" />
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/activity_kamar.xml" value="0.20854700854700856" />
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/activity_login.xml" value="0.17708333333333334" />
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/activity_main.xml" value="0.20854700854700856" />
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/activity_order.xml" value="0.20854700854700856" />
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/item_hotel.xml" value="0.20854700854700856" />
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/item_kamar.xml" value="0.20854700854700856" />
+        <entry key="..\:/ATMA JAYA/Semester 5 19/PBP/UAS FIX/OneHotel/app/src/main/res/layout/item_list.xml" value="0.20854700854700856" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/drawable/background.xml" value="0.2222222222222222" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.2222222222222222" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_hotel.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_kamar.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_location.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_order.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_splash.xml" value="0.10726495726495726" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/activity_update.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/fragment_navigation.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/fragment_temp.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/item_hotel.xml" value="0.6" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/item_kamar.xml" value="0.4" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/item_list.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/layout_loading.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/layout_order.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/layout/layout_select_media.xml" value="0.20897435897435898" />
+        <entry key="..\:/Aplikasi/Android/Project/OneHotel/app/src/main/res/menu/menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

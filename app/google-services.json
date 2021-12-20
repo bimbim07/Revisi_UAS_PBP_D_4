@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884788131370",
+    "project_id": "one-hotel",
+    "storage_bucket": "one-hotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884788131370:android:7d46118487e9aa08d63553",
+        "android_client_info": {
+          "package_name": "com.example.one_hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884788131370-fcie8hp6f2vms89c6ee4l2lk1fjcl2gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_fOyqyYNo7ZMK8TFnj87la9paqw-wd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884788131370-fcie8hp6f2vms89c6ee4l2lk1fjcl2gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
